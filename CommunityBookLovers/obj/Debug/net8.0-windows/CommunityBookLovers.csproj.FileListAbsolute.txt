@@ -1,0 +1,991 @@
+D:\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\CommunityBookLovers.exe
+D:\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\CommunityBookLovers.deps.json
+D:\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\CommunityBookLovers.runtimeconfig.json
+D:\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\CommunityBookLovers.dll
+D:\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\CommunityBookLovers.pdb
+D:\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\Azure.Core.dll
+D:\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\Azure.Identity.dll
+D:\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\Humanizer.dll
+D:\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.Build.Locator.dll
+D:\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+D:\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+D:\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+D:\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+D:\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+D:\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\System.ClientModel.dll
+D:\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+D:\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+D:\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+D:\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+D:\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+D:\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\System.Diagnostics.DiagnosticSource.dll
+D:\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\System.Formats.Asn1.dll
+D:\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+D:\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\System.Memory.Data.dll
+D:\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+D:\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+D:\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\System.Text.Json.dll
+D:\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+D:\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+D:\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+D:\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\Fedyaeva\CommunityBookLovers\obj\Debug\net8.0-windows\CommunityBookLovers.csproj.AssemblyReference.cache
+D:\Fedyaeva\CommunityBookLovers\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\Fedyaeva\CommunityBookLovers\obj\Debug\net8.0-windows\App.g.cs
+D:\Fedyaeva\CommunityBookLovers\obj\Debug\net8.0-windows\CommunityBookLovers_MarkupCompile.cache
+D:\Fedyaeva\CommunityBookLovers\obj\Debug\net8.0-windows\CommunityBookLovers_MarkupCompile.lref
+D:\Fedyaeva\CommunityBookLovers\obj\Debug\net8.0-windows\MainWindow.baml
+D:\Fedyaeva\CommunityBookLovers\obj\Debug\net8.0-windows\CommunityBookLovers.g.resources
+D:\Fedyaeva\CommunityBookLovers\obj\Debug\net8.0-windows\CommunityBookLovers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fedyaeva\CommunityBookLovers\obj\Debug\net8.0-windows\CommunityBookLovers.AssemblyInfoInputs.cache
+D:\Fedyaeva\CommunityBookLovers\obj\Debug\net8.0-windows\CommunityBookLovers.AssemblyInfo.cs
+D:\Fedyaeva\CommunityBookLovers\obj\Debug\net8.0-windows\CommunityBookLovers.csproj.CoreCompileInputs.cache
+D:\Fedyaeva\CommunityBookLovers\obj\Debug\net8.0-windows\Communit.F76E9131.Up2Date
+D:\Fedyaeva\CommunityBookLovers\obj\Debug\net8.0-windows\CommunityBookLovers.dll
+D:\Fedyaeva\CommunityBookLovers\obj\Debug\net8.0-windows\refint\CommunityBookLovers.dll
+D:\Fedyaeva\CommunityBookLovers\obj\Debug\net8.0-windows\CommunityBookLovers.pdb
+D:\Fedyaeva\CommunityBookLovers\obj\Debug\net8.0-windows\CommunityBookLovers.genruntimeconfig.cache
+D:\Fedyaeva\CommunityBookLovers\obj\Debug\net8.0-windows\ref\CommunityBookLovers.dll
+D:\Fedyaeva\CommunityBookLovers\obj\Debug\net8.0-windows\MainCommunityBook.g.cs
+D:\Fedyaeva\CommunityBookLovers\obj\Debug\net8.0-windows\MainCommunityBook.baml
+C:\Users\Ольга\Desktop\Fedyaeva\CommunityBookLovers\obj\Debug\net8.0-windows\CommunityBookLovers.csproj.AssemblyReference.cache
+C:\Users\Ольга\Desktop\Fedyaeva\CommunityBookLovers\obj\Debug\net8.0-windows\AboutMeWindow.g.cs
+C:\Users\Ольга\Desktop\Fedyaeva\CommunityBookLovers\obj\Debug\net8.0-windows\MainCommunityBook.g.cs
+C:\Users\Ольга\Desktop\Fedyaeva\CommunityBookLovers\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Ольга\Desktop\Fedyaeva\CommunityBookLovers\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Ольга\Desktop\Fedyaeva\CommunityBookLovers\obj\Debug\net8.0-windows\CommunityBookLovers_MarkupCompile.cache
+C:\Users\Ольга\Desktop\Fedyaeva\CommunityBookLovers\obj\Debug\net8.0-windows\CommunityBookLovers_MarkupCompile.lref
+C:\Users\Ольга\Desktop\Fedyaeva\CommunityBookLovers\obj\Debug\net8.0-windows\CommunityBookLovers.dll
+C:\Users\Ольга\Desktop\Fedyaeva\CommunityBookLovers\obj\Debug\net8.0-windows\refint\CommunityBookLovers.dll
+C:\Users\Ольга\Desktop\Fedyaeva\CommunityBookLovers\obj\Debug\net8.0-windows\CommunityBookLovers.pdb
+C:\Users\Ольга\Desktop\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\CommunityBookLovers.exe
+C:\Users\Ольга\Desktop\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\CommunityBookLovers.deps.json
+C:\Users\Ольга\Desktop\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\CommunityBookLovers.runtimeconfig.json
+C:\Users\Ольга\Desktop\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\CommunityBookLovers.dll
+C:\Users\Ольга\Desktop\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\CommunityBookLovers.pdb
+C:\Users\Ольга\Desktop\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\Ольга\Desktop\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\Ольга\Desktop\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\Humanizer.dll
+C:\Users\Ольга\Desktop\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Ольга\Desktop\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.Build.Locator.dll
+C:\Users\Ольга\Desktop\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\Ольга\Desktop\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ольга\Desktop\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Ольга\Desktop\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Ольга\Desktop\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\Ольга\Desktop\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\Ольга\Desktop\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Ольга\Desktop\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Ольга\Desktop\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Ольга\Desktop\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Ольга\Desktop\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Ольга\Desktop\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Ольга\Desktop\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Ольга\Desktop\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Ольга\Desktop\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Ольга\Desktop\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Ольга\Desktop\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Ольга\Desktop\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Ольга\Desktop\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Ольга\Desktop\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Ольга\Desktop\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Ольга\Desktop\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Ольга\Desktop\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Ольга\Desktop\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Ольга\Desktop\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Ольга\Desktop\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Ольга\Desktop\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Ольга\Desktop\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Ольга\Desktop\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Ольга\Desktop\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Ольга\Desktop\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Ольга\Desktop\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+C:\Users\Ольга\Desktop\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\Ольга\Desktop\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+C:\Users\Ольга\Desktop\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+C:\Users\Ольга\Desktop\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+C:\Users\Ольга\Desktop\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+C:\Users\Ольга\Desktop\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+C:\Users\Ольга\Desktop\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ольга\Desktop\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\System.Formats.Asn1.dll
+C:\Users\Ольга\Desktop\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Ольга\Desktop\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\Ольга\Desktop\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\Ольга\Desktop\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\Ольга\Desktop\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\Ольга\Desktop\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\Ольга\Desktop\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ольга\Desktop\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ольга\Desktop\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ольга\Desktop\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ольга\Desktop\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ольга\Desktop\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ольга\Desktop\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ольга\Desktop\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ольга\Desktop\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ольга\Desktop\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ольга\Desktop\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ольга\Desktop\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ольга\Desktop\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ольга\Desktop\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ольга\Desktop\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ольга\Desktop\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ольга\Desktop\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ольга\Desktop\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ольга\Desktop\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ольга\Desktop\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ольга\Desktop\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ольга\Desktop\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ольга\Desktop\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ольга\Desktop\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ольга\Desktop\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ольга\Desktop\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ольга\Desktop\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ольга\Desktop\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ольга\Desktop\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ольга\Desktop\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ольга\Desktop\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ольга\Desktop\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ольга\Desktop\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ольга\Desktop\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ольга\Desktop\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ольга\Desktop\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ольга\Desktop\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ольга\Desktop\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ольга\Desktop\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ольга\Desktop\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ольга\Desktop\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ольга\Desktop\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ольга\Desktop\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ольга\Desktop\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ольга\Desktop\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ольга\Desktop\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ольга\Desktop\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ольга\Desktop\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ольга\Desktop\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ольга\Desktop\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ольга\Desktop\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ольга\Desktop\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ольга\Desktop\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Ольга\Desktop\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Ольга\Desktop\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Ольга\Desktop\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Ольга\Desktop\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Ольга\Desktop\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Ольга\Desktop\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Ольга\Desktop\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Ольга\Desktop\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Ольга\Desktop\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Ольга\Desktop\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Ольга\Desktop\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Ольга\Desktop\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Ольга\Desktop\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Ольга\Desktop\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Ольга\Desktop\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ольга\Desktop\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ольга\Desktop\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ольга\Desktop\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ольга\Desktop\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Ольга\Desktop\Fedyaeva\CommunityBookLovers\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\Ольга\Desktop\Fedyaeva\CommunityBookLovers\obj\Debug\net8.0-windows\AboutMeWindow.baml
+C:\Users\Ольга\Desktop\Fedyaeva\CommunityBookLovers\obj\Debug\net8.0-windows\MainCommunityBook.baml
+C:\Users\Ольга\Desktop\Fedyaeva\CommunityBookLovers\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Ольга\Desktop\Fedyaeva\CommunityBookLovers\obj\Debug\net8.0-windows\CommunityBookLovers.g.resources
+C:\Users\Ольга\Desktop\Fedyaeva\CommunityBookLovers\obj\Debug\net8.0-windows\CommunityBookLovers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ольга\Desktop\Fedyaeva\CommunityBookLovers\obj\Debug\net8.0-windows\CommunityBookLovers.AssemblyInfoInputs.cache
+C:\Users\Ольга\Desktop\Fedyaeva\CommunityBookLovers\obj\Debug\net8.0-windows\CommunityBookLovers.AssemblyInfo.cs
+C:\Users\Ольга\Desktop\Fedyaeva\CommunityBookLovers\obj\Debug\net8.0-windows\CommunityBookLovers.csproj.CoreCompileInputs.cache
+C:\Users\Ольга\Desktop\Fedyaeva\CommunityBookLovers\obj\Debug\net8.0-windows\Communit.F76E9131.Up2Date
+C:\Users\Ольга\Desktop\Fedyaeva\CommunityBookLovers\obj\Debug\net8.0-windows\CommunityBookLovers.genruntimeconfig.cache
+C:\Users\Ольга\Desktop\Fedyaeva\CommunityBookLovers\obj\Debug\net8.0-windows\ref\CommunityBookLovers.dll
+C:\Users\Ольга\Desktop\Fedyaeva\CommunityBookLovers\obj\Debug\net8.0-windows\BookWindow.g.cs
+C:\Users\Ольга\Desktop\Fedyaeva\CommunityBookLovers\obj\Debug\net8.0-windows\BookWindow.baml
+C:\Users\Ольга\Desktop\Fedyaeva\CommunityBookLovers\obj\Debug\net8.0-windows\RegistrationWindow.g.cs
+C:\Users\Ольга\Desktop\Fedyaeva\CommunityBookLovers\obj\Debug\net8.0-windows\RegistrationWindow.baml
+C:\Users\admin\Desktop\CommunityBookLovers\bin\Debug\net8.0-windows\CommunityBookLovers.exe
+C:\Users\admin\Desktop\CommunityBookLovers\bin\Debug\net8.0-windows\CommunityBookLovers.deps.json
+C:\Users\admin\Desktop\CommunityBookLovers\bin\Debug\net8.0-windows\CommunityBookLovers.runtimeconfig.json
+C:\Users\admin\Desktop\CommunityBookLovers\bin\Debug\net8.0-windows\CommunityBookLovers.dll
+C:\Users\admin\Desktop\CommunityBookLovers\bin\Debug\net8.0-windows\CommunityBookLovers.pdb
+C:\Users\admin\Desktop\CommunityBookLovers\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\admin\Desktop\CommunityBookLovers\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\admin\Desktop\CommunityBookLovers\bin\Debug\net8.0-windows\Humanizer.dll
+C:\Users\admin\Desktop\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\admin\Desktop\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.Build.Locator.dll
+C:\Users\admin\Desktop\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\admin\Desktop\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\admin\Desktop\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\admin\Desktop\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\admin\Desktop\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\admin\Desktop\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\admin\Desktop\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\admin\Desktop\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\admin\Desktop\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\admin\Desktop\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\admin\Desktop\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\admin\Desktop\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\admin\Desktop\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\admin\Desktop\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\admin\Desktop\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\admin\Desktop\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\admin\Desktop\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\admin\Desktop\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\admin\Desktop\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\admin\Desktop\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\admin\Desktop\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\admin\Desktop\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\admin\Desktop\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\admin\Desktop\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\admin\Desktop\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\admin\Desktop\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\admin\Desktop\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\admin\Desktop\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\admin\Desktop\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\admin\Desktop\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\admin\Desktop\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\admin\Desktop\CommunityBookLovers\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+C:\Users\admin\Desktop\CommunityBookLovers\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\admin\Desktop\CommunityBookLovers\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+C:\Users\admin\Desktop\CommunityBookLovers\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+C:\Users\admin\Desktop\CommunityBookLovers\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+C:\Users\admin\Desktop\CommunityBookLovers\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+C:\Users\admin\Desktop\CommunityBookLovers\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+C:\Users\admin\Desktop\CommunityBookLovers\bin\Debug\net8.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\admin\Desktop\CommunityBookLovers\bin\Debug\net8.0-windows\System.Formats.Asn1.dll
+C:\Users\admin\Desktop\CommunityBookLovers\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\admin\Desktop\CommunityBookLovers\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\admin\Desktop\CommunityBookLovers\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\admin\Desktop\CommunityBookLovers\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\admin\Desktop\CommunityBookLovers\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\admin\Desktop\CommunityBookLovers\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\admin\Desktop\CommunityBookLovers\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Desktop\CommunityBookLovers\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Desktop\CommunityBookLovers\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Desktop\CommunityBookLovers\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Desktop\CommunityBookLovers\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Desktop\CommunityBookLovers\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Desktop\CommunityBookLovers\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Desktop\CommunityBookLovers\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Desktop\CommunityBookLovers\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Desktop\CommunityBookLovers\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Desktop\CommunityBookLovers\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Desktop\CommunityBookLovers\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Desktop\CommunityBookLovers\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Desktop\CommunityBookLovers\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Desktop\CommunityBookLovers\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Desktop\CommunityBookLovers\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Desktop\CommunityBookLovers\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Desktop\CommunityBookLovers\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Desktop\CommunityBookLovers\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Desktop\CommunityBookLovers\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Desktop\CommunityBookLovers\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Desktop\CommunityBookLovers\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Desktop\CommunityBookLovers\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Desktop\CommunityBookLovers\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Desktop\CommunityBookLovers\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Desktop\CommunityBookLovers\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Desktop\CommunityBookLovers\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Desktop\CommunityBookLovers\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Desktop\CommunityBookLovers\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Desktop\CommunityBookLovers\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Desktop\CommunityBookLovers\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Desktop\CommunityBookLovers\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Desktop\CommunityBookLovers\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Desktop\CommunityBookLovers\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Desktop\CommunityBookLovers\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Desktop\CommunityBookLovers\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Desktop\CommunityBookLovers\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Desktop\CommunityBookLovers\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Desktop\CommunityBookLovers\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Desktop\CommunityBookLovers\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Desktop\CommunityBookLovers\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Desktop\CommunityBookLovers\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Desktop\CommunityBookLovers\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Desktop\CommunityBookLovers\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Desktop\CommunityBookLovers\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Desktop\CommunityBookLovers\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Desktop\CommunityBookLovers\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Desktop\CommunityBookLovers\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Desktop\CommunityBookLovers\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Desktop\CommunityBookLovers\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Desktop\CommunityBookLovers\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Desktop\CommunityBookLovers\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Desktop\CommunityBookLovers\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\admin\Desktop\CommunityBookLovers\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\admin\Desktop\CommunityBookLovers\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\admin\Desktop\CommunityBookLovers\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\admin\Desktop\CommunityBookLovers\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\admin\Desktop\CommunityBookLovers\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\admin\Desktop\CommunityBookLovers\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\admin\Desktop\CommunityBookLovers\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\admin\Desktop\CommunityBookLovers\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\admin\Desktop\CommunityBookLovers\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\admin\Desktop\CommunityBookLovers\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\admin\Desktop\CommunityBookLovers\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\admin\Desktop\CommunityBookLovers\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\admin\Desktop\CommunityBookLovers\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\admin\Desktop\CommunityBookLovers\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\admin\Desktop\CommunityBookLovers\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\admin\Desktop\CommunityBookLovers\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\admin\Desktop\CommunityBookLovers\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\admin\Desktop\CommunityBookLovers\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\admin\Desktop\CommunityBookLovers\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\admin\Desktop\CommunityBookLovers\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\admin\Desktop\CommunityBookLovers\obj\Debug\net8.0-windows\CommunityBookLovers.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\CommunityBookLovers\obj\Debug\net8.0-windows\AboutMeWindow.g.cs
+C:\Users\admin\Desktop\CommunityBookLovers\obj\Debug\net8.0-windows\BookWindow.g.cs
+C:\Users\admin\Desktop\CommunityBookLovers\obj\Debug\net8.0-windows\MainCommunityBook.g.cs
+C:\Users\admin\Desktop\CommunityBookLovers\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\admin\Desktop\CommunityBookLovers\obj\Debug\net8.0-windows\RegistrationWindow.g.cs
+C:\Users\admin\Desktop\CommunityBookLovers\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\admin\Desktop\CommunityBookLovers\obj\Debug\net8.0-windows\CommunityBookLovers_MarkupCompile.cache
+C:\Users\admin\Desktop\CommunityBookLovers\obj\Debug\net8.0-windows\CommunityBookLovers_MarkupCompile.lref
+C:\Users\admin\Desktop\CommunityBookLovers\obj\Debug\net8.0-windows\AboutMeWindow.baml
+C:\Users\admin\Desktop\CommunityBookLovers\obj\Debug\net8.0-windows\BookWindow.baml
+C:\Users\admin\Desktop\CommunityBookLovers\obj\Debug\net8.0-windows\MainCommunityBook.baml
+C:\Users\admin\Desktop\CommunityBookLovers\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\admin\Desktop\CommunityBookLovers\obj\Debug\net8.0-windows\RegistrationWindow.baml
+C:\Users\admin\Desktop\CommunityBookLovers\obj\Debug\net8.0-windows\CommunityBookLovers.g.resources
+C:\Users\admin\Desktop\CommunityBookLovers\obj\Debug\net8.0-windows\CommunityBookLovers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\CommunityBookLovers\obj\Debug\net8.0-windows\CommunityBookLovers.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\CommunityBookLovers\obj\Debug\net8.0-windows\CommunityBookLovers.AssemblyInfo.cs
+C:\Users\admin\Desktop\CommunityBookLovers\obj\Debug\net8.0-windows\CommunityBookLovers.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\CommunityBookLovers\obj\Debug\net8.0-windows\Communit.F76E9131.Up2Date
+C:\Users\admin\Desktop\CommunityBookLovers\obj\Debug\net8.0-windows\CommunityBookLovers.dll
+C:\Users\admin\Desktop\CommunityBookLovers\obj\Debug\net8.0-windows\refint\CommunityBookLovers.dll
+C:\Users\admin\Desktop\CommunityBookLovers\obj\Debug\net8.0-windows\CommunityBookLovers.pdb
+C:\Users\admin\Desktop\CommunityBookLovers\obj\Debug\net8.0-windows\CommunityBookLovers.genruntimeconfig.cache
+C:\Users\admin\Desktop\CommunityBookLovers\obj\Debug\net8.0-windows\ref\CommunityBookLovers.dll
+C:\Users\admin\Desktop\CommunityBookLovers\obj\Debug\net8.0-windows\BookshelfWindow.g.cs
+C:\Users\admin\Desktop\CommunityBookLovers\obj\Debug\net8.0-windows\BookshelfWindow.baml
+C:\Users\admin\Desktop\CommunityBookLovers\obj\Debug\net8.0-windows\AddBookWindow.g.cs
+C:\Users\admin\Desktop\CommunityBookLovers\obj\Debug\net8.0-windows\AddBookWindow.baml
+C:\Users\Ольга\Desktop\Новая папка (3)\CommunityBookLovers\obj\Debug\net8.0-windows\CommunityBookLovers.csproj.AssemblyReference.cache
+C:\Users\Ольга\Desktop\Новая папка (3)\CommunityBookLovers\obj\Debug\net8.0-windows\LWindow\ReviewWindow.g.cs
+C:\Users\Ольга\Desktop\Новая папка (3)\CommunityBookLovers\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Ольга\Desktop\Новая папка (3)\CommunityBookLovers\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Ольга\Desktop\Новая папка (3)\CommunityBookLovers\obj\Debug\net8.0-windows\CommunityBookLovers_MarkupCompile.cache
+C:\Users\Ольга\Desktop\Новая папка (3)\CommunityBookLovers\obj\Debug\net8.0-windows\CommunityBookLovers_MarkupCompile.lref
+C:\Users\Ольга\Desktop\Новая папка (3)\CommunityBookLovers\obj\Debug\net8.0-windows\CommunityBookLovers.dll
+C:\Users\Ольга\Desktop\Новая папка (3)\CommunityBookLovers\obj\Debug\net8.0-windows\refint\CommunityBookLovers.dll
+C:\Users\Ольга\Desktop\Новая папка (3)\CommunityBookLovers\obj\Debug\net8.0-windows\CommunityBookLovers.pdb
+C:\Users\Ольга\Desktop\Новая папка (3)\CommunityBookLovers\bin\Debug\net8.0-windows\CommunityBookLovers.exe
+C:\Users\Ольга\Desktop\Новая папка (3)\CommunityBookLovers\bin\Debug\net8.0-windows\CommunityBookLovers.deps.json
+C:\Users\Ольга\Desktop\Новая папка (3)\CommunityBookLovers\bin\Debug\net8.0-windows\CommunityBookLovers.runtimeconfig.json
+C:\Users\Ольга\Desktop\Новая папка (3)\CommunityBookLovers\bin\Debug\net8.0-windows\CommunityBookLovers.dll
+C:\Users\Ольга\Desktop\Новая папка (3)\CommunityBookLovers\bin\Debug\net8.0-windows\CommunityBookLovers.pdb
+C:\Users\Ольга\Desktop\Новая папка (3)\CommunityBookLovers\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\Ольга\Desktop\Новая папка (3)\CommunityBookLovers\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\Ольга\Desktop\Новая папка (3)\CommunityBookLovers\bin\Debug\net8.0-windows\Humanizer.dll
+C:\Users\Ольга\Desktop\Новая папка (3)\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Ольга\Desktop\Новая папка (3)\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.Build.Locator.dll
+C:\Users\Ольга\Desktop\Новая папка (3)\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\Ольга\Desktop\Новая папка (3)\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ольга\Desktop\Новая папка (3)\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Ольга\Desktop\Новая папка (3)\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Ольга\Desktop\Новая папка (3)\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\Ольга\Desktop\Новая папка (3)\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\Ольга\Desktop\Новая папка (3)\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Ольга\Desktop\Новая папка (3)\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Ольга\Desktop\Новая папка (3)\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Ольга\Desktop\Новая папка (3)\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Ольга\Desktop\Новая папка (3)\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Ольга\Desktop\Новая папка (3)\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Ольга\Desktop\Новая папка (3)\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Ольга\Desktop\Новая папка (3)\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Ольга\Desktop\Новая папка (3)\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Ольга\Desktop\Новая папка (3)\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Ольга\Desktop\Новая папка (3)\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Ольга\Desktop\Новая папка (3)\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Ольга\Desktop\Новая папка (3)\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Ольга\Desktop\Новая папка (3)\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Ольга\Desktop\Новая папка (3)\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Ольга\Desktop\Новая папка (3)\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Ольга\Desktop\Новая папка (3)\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Ольга\Desktop\Новая папка (3)\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Ольга\Desktop\Новая папка (3)\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Ольга\Desktop\Новая папка (3)\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Ольга\Desktop\Новая папка (3)\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Ольга\Desktop\Новая папка (3)\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Ольга\Desktop\Новая папка (3)\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Ольга\Desktop\Новая папка (3)\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Ольга\Desktop\Новая папка (3)\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Ольга\Desktop\Новая папка (3)\CommunityBookLovers\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+C:\Users\Ольга\Desktop\Новая папка (3)\CommunityBookLovers\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\Ольга\Desktop\Новая папка (3)\CommunityBookLovers\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+C:\Users\Ольга\Desktop\Новая папка (3)\CommunityBookLovers\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+C:\Users\Ольга\Desktop\Новая папка (3)\CommunityBookLovers\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+C:\Users\Ольга\Desktop\Новая папка (3)\CommunityBookLovers\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+C:\Users\Ольга\Desktop\Новая папка (3)\CommunityBookLovers\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+C:\Users\Ольга\Desktop\Новая папка (3)\CommunityBookLovers\bin\Debug\net8.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ольга\Desktop\Новая папка (3)\CommunityBookLovers\bin\Debug\net8.0-windows\System.Formats.Asn1.dll
+C:\Users\Ольга\Desktop\Новая папка (3)\CommunityBookLovers\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Ольга\Desktop\Новая папка (3)\CommunityBookLovers\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\Ольга\Desktop\Новая папка (3)\CommunityBookLovers\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\Ольга\Desktop\Новая папка (3)\CommunityBookLovers\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\Ольга\Desktop\Новая папка (3)\CommunityBookLovers\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\Ольга\Desktop\Новая папка (3)\CommunityBookLovers\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\Ольга\Desktop\Новая папка (3)\CommunityBookLovers\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ольга\Desktop\Новая папка (3)\CommunityBookLovers\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ольга\Desktop\Новая папка (3)\CommunityBookLovers\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ольга\Desktop\Новая папка (3)\CommunityBookLovers\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ольга\Desktop\Новая папка (3)\CommunityBookLovers\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ольга\Desktop\Новая папка (3)\CommunityBookLovers\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ольга\Desktop\Новая папка (3)\CommunityBookLovers\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ольга\Desktop\Новая папка (3)\CommunityBookLovers\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ольга\Desktop\Новая папка (3)\CommunityBookLovers\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ольга\Desktop\Новая папка (3)\CommunityBookLovers\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ольга\Desktop\Новая папка (3)\CommunityBookLovers\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ольга\Desktop\Новая папка (3)\CommunityBookLovers\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ольга\Desktop\Новая папка (3)\CommunityBookLovers\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ольга\Desktop\Новая папка (3)\CommunityBookLovers\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ольга\Desktop\Новая папка (3)\CommunityBookLovers\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ольга\Desktop\Новая папка (3)\CommunityBookLovers\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ольга\Desktop\Новая папка (3)\CommunityBookLovers\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ольга\Desktop\Новая папка (3)\CommunityBookLovers\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ольга\Desktop\Новая папка (3)\CommunityBookLovers\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ольга\Desktop\Новая папка (3)\CommunityBookLovers\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ольга\Desktop\Новая папка (3)\CommunityBookLovers\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ольга\Desktop\Новая папка (3)\CommunityBookLovers\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ольга\Desktop\Новая папка (3)\CommunityBookLovers\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ольга\Desktop\Новая папка (3)\CommunityBookLovers\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ольга\Desktop\Новая папка (3)\CommunityBookLovers\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ольга\Desktop\Новая папка (3)\CommunityBookLovers\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ольга\Desktop\Новая папка (3)\CommunityBookLovers\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ольга\Desktop\Новая папка (3)\CommunityBookLovers\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ольга\Desktop\Новая папка (3)\CommunityBookLovers\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ольга\Desktop\Новая папка (3)\CommunityBookLovers\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ольга\Desktop\Новая папка (3)\CommunityBookLovers\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ольга\Desktop\Новая папка (3)\CommunityBookLovers\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ольга\Desktop\Новая папка (3)\CommunityBookLovers\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ольга\Desktop\Новая папка (3)\CommunityBookLovers\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ольга\Desktop\Новая папка (3)\CommunityBookLovers\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ольга\Desktop\Новая папка (3)\CommunityBookLovers\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ольга\Desktop\Новая папка (3)\CommunityBookLovers\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ольга\Desktop\Новая папка (3)\CommunityBookLovers\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ольга\Desktop\Новая папка (3)\CommunityBookLovers\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ольга\Desktop\Новая папка (3)\CommunityBookLovers\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ольга\Desktop\Новая папка (3)\CommunityBookLovers\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ольга\Desktop\Новая папка (3)\CommunityBookLovers\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ольга\Desktop\Новая папка (3)\CommunityBookLovers\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ольга\Desktop\Новая папка (3)\CommunityBookLovers\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ольга\Desktop\Новая папка (3)\CommunityBookLovers\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ольга\Desktop\Новая папка (3)\CommunityBookLovers\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ольга\Desktop\Новая папка (3)\CommunityBookLovers\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ольга\Desktop\Новая папка (3)\CommunityBookLovers\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ольга\Desktop\Новая папка (3)\CommunityBookLovers\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ольга\Desktop\Новая папка (3)\CommunityBookLovers\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ольга\Desktop\Новая папка (3)\CommunityBookLovers\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ольга\Desktop\Новая папка (3)\CommunityBookLovers\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ольга\Desktop\Новая папка (3)\CommunityBookLovers\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Ольга\Desktop\Новая папка (3)\CommunityBookLovers\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Ольга\Desktop\Новая папка (3)\CommunityBookLovers\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Ольга\Desktop\Новая папка (3)\CommunityBookLovers\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Ольга\Desktop\Новая папка (3)\CommunityBookLovers\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Ольга\Desktop\Новая папка (3)\CommunityBookLovers\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Ольга\Desktop\Новая папка (3)\CommunityBookLovers\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Ольга\Desktop\Новая папка (3)\CommunityBookLovers\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Ольга\Desktop\Новая папка (3)\CommunityBookLovers\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Ольга\Desktop\Новая папка (3)\CommunityBookLovers\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Ольга\Desktop\Новая папка (3)\CommunityBookLovers\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Ольга\Desktop\Новая папка (3)\CommunityBookLovers\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Ольга\Desktop\Новая папка (3)\CommunityBookLovers\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Ольга\Desktop\Новая папка (3)\CommunityBookLovers\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Ольга\Desktop\Новая папка (3)\CommunityBookLovers\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Ольга\Desktop\Новая папка (3)\CommunityBookLovers\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ольга\Desktop\Новая папка (3)\CommunityBookLovers\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ольга\Desktop\Новая папка (3)\CommunityBookLovers\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ольга\Desktop\Новая папка (3)\CommunityBookLovers\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ольга\Desktop\Новая папка (3)\CommunityBookLovers\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Ольга\Desktop\Новая папка (3)\CommunityBookLovers\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\Ольга\Desktop\Новая папка (3)\CommunityBookLovers\obj\Debug\net8.0-windows\LWindow\ReviewWindow.baml
+C:\Users\Ольга\Desktop\Новая папка (3)\CommunityBookLovers\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Ольга\Desktop\Новая папка (3)\CommunityBookLovers\obj\Debug\net8.0-windows\CommunityBookLovers.g.resources
+C:\Users\Ольга\Desktop\Новая папка (3)\CommunityBookLovers\obj\Debug\net8.0-windows\CommunityBookLovers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ольга\Desktop\Новая папка (3)\CommunityBookLovers\obj\Debug\net8.0-windows\CommunityBookLovers.AssemblyInfoInputs.cache
+C:\Users\Ольга\Desktop\Новая папка (3)\CommunityBookLovers\obj\Debug\net8.0-windows\CommunityBookLovers.AssemblyInfo.cs
+C:\Users\Ольга\Desktop\Новая папка (3)\CommunityBookLovers\obj\Debug\net8.0-windows\CommunityBookLovers.csproj.CoreCompileInputs.cache
+C:\Users\Ольга\Desktop\Новая папка (3)\CommunityBookLovers\obj\Debug\net8.0-windows\Communit.F76E9131.Up2Date
+C:\Users\Ольга\Desktop\Новая папка (3)\CommunityBookLovers\obj\Debug\net8.0-windows\CommunityBookLovers.genruntimeconfig.cache
+C:\Users\Ольга\Desktop\Новая папка (3)\CommunityBookLovers\obj\Debug\net8.0-windows\ref\CommunityBookLovers.dll
+C:\Users\Ольга\Desktop\Новая папка (3)\CommunityBookLovers\obj\Debug\net8.0-windows\LWindow\AboutMeWindow.g.cs
+C:\Users\Ольга\Desktop\Новая папка (3)\CommunityBookLovers\obj\Debug\net8.0-windows\LWindow\AddBookWindow.g.cs
+C:\Users\Ольга\Desktop\Новая папка (3)\CommunityBookLovers\obj\Debug\net8.0-windows\LWindow\BookshelfWindow.g.cs
+C:\Users\Ольга\Desktop\Новая папка (3)\CommunityBookLovers\obj\Debug\net8.0-windows\LWindow\BookWindow.g.cs
+C:\Users\Ольга\Desktop\Новая папка (3)\CommunityBookLovers\obj\Debug\net8.0-windows\LWindow\MainCommunityBook.g.cs
+C:\Users\Ольга\Desktop\Новая папка (3)\CommunityBookLovers\obj\Debug\net8.0-windows\LWindow\RegistrationWindow.g.cs
+C:\Users\Ольга\Desktop\Новая папка (3)\CommunityBookLovers\obj\Debug\net8.0-windows\LWindow\AboutMeWindow.baml
+C:\Users\Ольга\Desktop\Новая папка (3)\CommunityBookLovers\obj\Debug\net8.0-windows\LWindow\AddBookWindow.baml
+C:\Users\Ольга\Desktop\Новая папка (3)\CommunityBookLovers\obj\Debug\net8.0-windows\LWindow\BookshelfWindow.baml
+C:\Users\Ольга\Desktop\Новая папка (3)\CommunityBookLovers\obj\Debug\net8.0-windows\LWindow\BookWindow.baml
+C:\Users\Ольга\Desktop\Новая папка (3)\CommunityBookLovers\obj\Debug\net8.0-windows\LWindow\MainCommunityBook.baml
+C:\Users\Ольга\Desktop\Новая папка (3)\CommunityBookLovers\obj\Debug\net8.0-windows\LWindow\RegistrationWindow.baml
+C:\Users\Ольга\Desktop\Новая папка (3)\CommunityBookLovers\bin\Debug\net8.0-windows\WpfAnimatedGif.dll
+C:\Users\Ольга\Desktop\Новая папка (3)\CommunityBookLovers\obj\Debug\net8.0-windows\LWindow\CustomWin.g.cs
+C:\Users\Ольга\Desktop\Новая папка (3)\CommunityBookLovers\obj\Debug\net8.0-windows\LWindow\CustomWin.baml
+C:\Users\Ольга\Desktop\Новая папка (3)\CommunityBookLovers\obj\Debug\net8.0-windows\LWindow\BookshelfMessageBox.g.cs
+C:\Users\Ольга\Desktop\Новая папка (3)\CommunityBookLovers\obj\Debug\net8.0-windows\LWindow\BookshelfMessageBox.baml
+C:\Users\Ольга\Desktop\Новая папка (3)\CommunityBookLovers\obj\Debug\net8.0-windows\LWindow\CommunityBook.g.cs
+C:\Users\Ольга\Desktop\Новая папка (3)\CommunityBookLovers\obj\Debug\net8.0-windows\LWindow\CommunityBook.baml
+C:\Users\Ольга\Desktop\Новая папка (3)\CommunityBookLovers\obj\Debug\net8.0-windows\MessegeBoxes\MessegeBoxFriend.g.cs
+C:\Users\Ольга\Desktop\Новая папка (3)\CommunityBookLovers\obj\Debug\net8.0-windows\MessegeBoxes\MessegeBoxFriend.baml
+C:\Users\Ольга\Desktop\Новая папка (3)\CommunityBookLovers\obj\Debug\net8.0-windows\MessegeBoxes\MessegeAboutme.g.cs
+C:\Users\Ольга\Desktop\Новая папка (3)\CommunityBookLovers\obj\Debug\net8.0-windows\MessegeBoxes\MessegeAboutme.baml
+C:\Users\Ольга\Desktop\Новая папка (3)\CommunityBookLovers\obj\Debug\net8.0-windows\MessegeBoxes\MessegeBook.g.cs
+C:\Users\Ольга\Desktop\Новая папка (3)\CommunityBookLovers\obj\Debug\net8.0-windows\MessegeBoxes\MessegeReview.g.cs
+C:\Users\Ольга\Desktop\Новая папка (3)\CommunityBookLovers\obj\Debug\net8.0-windows\MessegeBoxes\MessegeBook.baml
+C:\Users\Ольга\Desktop\Новая папка (3)\CommunityBookLovers\obj\Debug\net8.0-windows\MessegeBoxes\MessegeReview.baml
+C:\Users\Ольга\Desktop\Новая папка (3)\CommunityBookLovers\obj\Debug\net8.0-windows\MessegeBoxes\MessegeAvtoriz.g.cs
+C:\Users\Ольга\Desktop\Новая папка (3)\CommunityBookLovers\obj\Debug\net8.0-windows\MessegeBoxes\MessegeAvtoriz.baml
+C:\Users\admin\Desktop\Новая папка (3)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\CommunityBookLovers.exe
+C:\Users\admin\Desktop\Новая папка (3)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\CommunityBookLovers.deps.json
+C:\Users\admin\Desktop\Новая папка (3)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\CommunityBookLovers.runtimeconfig.json
+C:\Users\admin\Desktop\Новая папка (3)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\CommunityBookLovers.dll
+C:\Users\admin\Desktop\Новая папка (3)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\CommunityBookLovers.pdb
+C:\Users\admin\Desktop\Новая папка (3)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\admin\Desktop\Новая папка (3)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\admin\Desktop\Новая папка (3)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\Humanizer.dll
+C:\Users\admin\Desktop\Новая папка (3)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\admin\Desktop\Новая папка (3)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.Build.Locator.dll
+C:\Users\admin\Desktop\Новая папка (3)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\admin\Desktop\Новая папка (3)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\admin\Desktop\Новая папка (3)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\admin\Desktop\Новая папка (3)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\admin\Desktop\Новая папка (3)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\admin\Desktop\Новая папка (3)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\admin\Desktop\Новая папка (3)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\admin\Desktop\Новая папка (3)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\admin\Desktop\Новая папка (3)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\admin\Desktop\Новая папка (3)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\admin\Desktop\Новая папка (3)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\admin\Desktop\Новая папка (3)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\admin\Desktop\Новая папка (3)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\admin\Desktop\Новая папка (3)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\admin\Desktop\Новая папка (3)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\admin\Desktop\Новая папка (3)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\admin\Desktop\Новая папка (3)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\admin\Desktop\Новая папка (3)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\admin\Desktop\Новая папка (3)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\admin\Desktop\Новая папка (3)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\admin\Desktop\Новая папка (3)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\admin\Desktop\Новая папка (3)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\admin\Desktop\Новая папка (3)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\admin\Desktop\Новая папка (3)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\admin\Desktop\Новая папка (3)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\admin\Desktop\Новая папка (3)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\admin\Desktop\Новая папка (3)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\admin\Desktop\Новая папка (3)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\admin\Desktop\Новая папка (3)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\admin\Desktop\Новая папка (3)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\admin\Desktop\Новая папка (3)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\admin\Desktop\Новая папка (3)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+C:\Users\admin\Desktop\Новая папка (3)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\admin\Desktop\Новая папка (3)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+C:\Users\admin\Desktop\Новая папка (3)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+C:\Users\admin\Desktop\Новая папка (3)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+C:\Users\admin\Desktop\Новая папка (3)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+C:\Users\admin\Desktop\Новая папка (3)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+C:\Users\admin\Desktop\Новая папка (3)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\admin\Desktop\Новая папка (3)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\System.Formats.Asn1.dll
+C:\Users\admin\Desktop\Новая папка (3)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\admin\Desktop\Новая папка (3)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\admin\Desktop\Новая папка (3)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\admin\Desktop\Новая папка (3)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\admin\Desktop\Новая папка (3)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\admin\Desktop\Новая папка (3)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\admin\Desktop\Новая папка (3)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\WpfAnimatedGif.dll
+C:\Users\admin\Desktop\Новая папка (3)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Desktop\Новая папка (3)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Desktop\Новая папка (3)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Desktop\Новая папка (3)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Desktop\Новая папка (3)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Desktop\Новая папка (3)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Desktop\Новая папка (3)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Desktop\Новая папка (3)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Desktop\Новая папка (3)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Desktop\Новая папка (3)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Desktop\Новая папка (3)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Desktop\Новая папка (3)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Desktop\Новая папка (3)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Desktop\Новая папка (3)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Desktop\Новая папка (3)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Desktop\Новая папка (3)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Desktop\Новая папка (3)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Desktop\Новая папка (3)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Desktop\Новая папка (3)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Desktop\Новая папка (3)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Desktop\Новая папка (3)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Desktop\Новая папка (3)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Desktop\Новая папка (3)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Desktop\Новая папка (3)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Desktop\Новая папка (3)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Desktop\Новая папка (3)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Desktop\Новая папка (3)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Desktop\Новая папка (3)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Desktop\Новая папка (3)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Desktop\Новая папка (3)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Desktop\Новая папка (3)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Desktop\Новая папка (3)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Desktop\Новая папка (3)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Desktop\Новая папка (3)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Desktop\Новая папка (3)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Desktop\Новая папка (3)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Desktop\Новая папка (3)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Desktop\Новая папка (3)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Desktop\Новая папка (3)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Desktop\Новая папка (3)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Desktop\Новая папка (3)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Desktop\Новая папка (3)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Desktop\Новая папка (3)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Desktop\Новая папка (3)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Desktop\Новая папка (3)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Desktop\Новая папка (3)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Desktop\Новая папка (3)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Desktop\Новая папка (3)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Desktop\Новая папка (3)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Desktop\Новая папка (3)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Desktop\Новая папка (3)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Desktop\Новая папка (3)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Desktop\Новая папка (3)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\admin\Desktop\Новая папка (3)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\admin\Desktop\Новая папка (3)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\admin\Desktop\Новая папка (3)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\admin\Desktop\Новая папка (3)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\admin\Desktop\Новая папка (3)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\admin\Desktop\Новая папка (3)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\admin\Desktop\Новая папка (3)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\admin\Desktop\Новая папка (3)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\admin\Desktop\Новая папка (3)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\admin\Desktop\Новая папка (3)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\admin\Desktop\Новая папка (3)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\admin\Desktop\Новая папка (3)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\admin\Desktop\Новая папка (3)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\admin\Desktop\Новая папка (3)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\admin\Desktop\Новая папка (3)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\admin\Desktop\Новая папка (3)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\admin\Desktop\Новая папка (3)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\admin\Desktop\Новая папка (3)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\admin\Desktop\Новая папка (3)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\admin\Desktop\Новая папка (3)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\admin\Desktop\Новая папка (3)обнова\CommunityBookLovers\obj\Debug\net8.0-windows\CommunityBookLovers.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Новая папка (3)обнова\CommunityBookLovers\obj\Debug\net8.0-windows\LWindow\AboutMeWindow.g.cs
+C:\Users\admin\Desktop\Новая папка (3)обнова\CommunityBookLovers\obj\Debug\net8.0-windows\LWindow\AddBookWindow.g.cs
+C:\Users\admin\Desktop\Новая папка (3)обнова\CommunityBookLovers\obj\Debug\net8.0-windows\LWindow\BookshelfMessageBox.g.cs
+C:\Users\admin\Desktop\Новая папка (3)обнова\CommunityBookLovers\obj\Debug\net8.0-windows\LWindow\BookshelfWindow.g.cs
+C:\Users\admin\Desktop\Новая папка (3)обнова\CommunityBookLovers\obj\Debug\net8.0-windows\LWindow\BookWindow.g.cs
+C:\Users\admin\Desktop\Новая папка (3)обнова\CommunityBookLovers\obj\Debug\net8.0-windows\LWindow\CommunityBook.g.cs
+C:\Users\admin\Desktop\Новая папка (3)обнова\CommunityBookLovers\obj\Debug\net8.0-windows\LWindow\CustomWin.g.cs
+C:\Users\admin\Desktop\Новая папка (3)обнова\CommunityBookLovers\obj\Debug\net8.0-windows\LWindow\MainCommunityBook.g.cs
+C:\Users\admin\Desktop\Новая папка (3)обнова\CommunityBookLovers\obj\Debug\net8.0-windows\LWindow\RegistrationWindow.g.cs
+C:\Users\admin\Desktop\Новая папка (3)обнова\CommunityBookLovers\obj\Debug\net8.0-windows\LWindow\ReviewWindow.g.cs
+C:\Users\admin\Desktop\Новая папка (3)обнова\CommunityBookLovers\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\admin\Desktop\Новая папка (3)обнова\CommunityBookLovers\obj\Debug\net8.0-windows\MessegeBoxes\MessegeAboutme.g.cs
+C:\Users\admin\Desktop\Новая папка (3)обнова\CommunityBookLovers\obj\Debug\net8.0-windows\MessegeBoxes\MessegeAvtoriz.g.cs
+C:\Users\admin\Desktop\Новая папка (3)обнова\CommunityBookLovers\obj\Debug\net8.0-windows\MessegeBoxes\MessegeBook.g.cs
+C:\Users\admin\Desktop\Новая папка (3)обнова\CommunityBookLovers\obj\Debug\net8.0-windows\MessegeBoxes\MessegeBoxFriend.g.cs
+C:\Users\admin\Desktop\Новая папка (3)обнова\CommunityBookLovers\obj\Debug\net8.0-windows\MessegeBoxes\MessegeReview.g.cs
+C:\Users\admin\Desktop\Новая папка (3)обнова\CommunityBookLovers\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\admin\Desktop\Новая папка (3)обнова\CommunityBookLovers\obj\Debug\net8.0-windows\CommunityBookLovers_MarkupCompile.cache
+C:\Users\admin\Desktop\Новая папка (3)обнова\CommunityBookLovers\obj\Debug\net8.0-windows\CommunityBookLovers_MarkupCompile.lref
+C:\Users\admin\Desktop\Новая папка (3)обнова\CommunityBookLovers\obj\Debug\net8.0-windows\LWindow\AboutMeWindow.baml
+C:\Users\admin\Desktop\Новая папка (3)обнова\CommunityBookLovers\obj\Debug\net8.0-windows\LWindow\AddBookWindow.baml
+C:\Users\admin\Desktop\Новая папка (3)обнова\CommunityBookLovers\obj\Debug\net8.0-windows\LWindow\BookshelfMessageBox.baml
+C:\Users\admin\Desktop\Новая папка (3)обнова\CommunityBookLovers\obj\Debug\net8.0-windows\LWindow\BookshelfWindow.baml
+C:\Users\admin\Desktop\Новая папка (3)обнова\CommunityBookLovers\obj\Debug\net8.0-windows\LWindow\BookWindow.baml
+C:\Users\admin\Desktop\Новая папка (3)обнова\CommunityBookLovers\obj\Debug\net8.0-windows\LWindow\CommunityBook.baml
+C:\Users\admin\Desktop\Новая папка (3)обнова\CommunityBookLovers\obj\Debug\net8.0-windows\LWindow\CustomWin.baml
+C:\Users\admin\Desktop\Новая папка (3)обнова\CommunityBookLovers\obj\Debug\net8.0-windows\LWindow\MainCommunityBook.baml
+C:\Users\admin\Desktop\Новая папка (3)обнова\CommunityBookLovers\obj\Debug\net8.0-windows\LWindow\RegistrationWindow.baml
+C:\Users\admin\Desktop\Новая папка (3)обнова\CommunityBookLovers\obj\Debug\net8.0-windows\LWindow\ReviewWindow.baml
+C:\Users\admin\Desktop\Новая папка (3)обнова\CommunityBookLovers\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\admin\Desktop\Новая папка (3)обнова\CommunityBookLovers\obj\Debug\net8.0-windows\MessegeBoxes\MessegeAboutme.baml
+C:\Users\admin\Desktop\Новая папка (3)обнова\CommunityBookLovers\obj\Debug\net8.0-windows\MessegeBoxes\MessegeAvtoriz.baml
+C:\Users\admin\Desktop\Новая папка (3)обнова\CommunityBookLovers\obj\Debug\net8.0-windows\MessegeBoxes\MessegeBook.baml
+C:\Users\admin\Desktop\Новая папка (3)обнова\CommunityBookLovers\obj\Debug\net8.0-windows\MessegeBoxes\MessegeBoxFriend.baml
+C:\Users\admin\Desktop\Новая папка (3)обнова\CommunityBookLovers\obj\Debug\net8.0-windows\MessegeBoxes\MessegeReview.baml
+C:\Users\admin\Desktop\Новая папка (3)обнова\CommunityBookLovers\obj\Debug\net8.0-windows\CommunityBookLovers.g.resources
+C:\Users\admin\Desktop\Новая папка (3)обнова\CommunityBookLovers\obj\Debug\net8.0-windows\CommunityBookLovers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\Новая папка (3)обнова\CommunityBookLovers\obj\Debug\net8.0-windows\CommunityBookLovers.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Новая папка (3)обнова\CommunityBookLovers\obj\Debug\net8.0-windows\CommunityBookLovers.AssemblyInfo.cs
+C:\Users\admin\Desktop\Новая папка (3)обнова\CommunityBookLovers\obj\Debug\net8.0-windows\CommunityBookLovers.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Новая папка (3)обнова\CommunityBookLovers\obj\Debug\net8.0-windows\Communit.F76E9131.Up2Date
+C:\Users\admin\Desktop\Новая папка (3)обнова\CommunityBookLovers\obj\Debug\net8.0-windows\CommunityBookLovers.dll
+C:\Users\admin\Desktop\Новая папка (3)обнова\CommunityBookLovers\obj\Debug\net8.0-windows\refint\CommunityBookLovers.dll
+C:\Users\admin\Desktop\Новая папка (3)обнова\CommunityBookLovers\obj\Debug\net8.0-windows\CommunityBookLovers.pdb
+C:\Users\admin\Desktop\Новая папка (3)обнова\CommunityBookLovers\obj\Debug\net8.0-windows\CommunityBookLovers.genruntimeconfig.cache
+C:\Users\admin\Desktop\Новая папка (3)обнова\CommunityBookLovers\obj\Debug\net8.0-windows\ref\CommunityBookLovers.dll
+C:\Users\admin\Desktop\Новая папка (4)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\CommunityBookLovers.exe
+C:\Users\admin\Desktop\Новая папка (4)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\CommunityBookLovers.deps.json
+C:\Users\admin\Desktop\Новая папка (4)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\CommunityBookLovers.runtimeconfig.json
+C:\Users\admin\Desktop\Новая папка (4)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\CommunityBookLovers.dll
+C:\Users\admin\Desktop\Новая папка (4)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\CommunityBookLovers.pdb
+C:\Users\admin\Desktop\Новая папка (4)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\admin\Desktop\Новая папка (4)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\admin\Desktop\Новая папка (4)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\Humanizer.dll
+C:\Users\admin\Desktop\Новая папка (4)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\admin\Desktop\Новая папка (4)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.Build.Locator.dll
+C:\Users\admin\Desktop\Новая папка (4)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\admin\Desktop\Новая папка (4)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\admin\Desktop\Новая папка (4)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\admin\Desktop\Новая папка (4)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\admin\Desktop\Новая папка (4)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\admin\Desktop\Новая папка (4)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\admin\Desktop\Новая папка (4)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\admin\Desktop\Новая папка (4)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\admin\Desktop\Новая папка (4)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\admin\Desktop\Новая папка (4)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\admin\Desktop\Новая папка (4)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\admin\Desktop\Новая папка (4)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\admin\Desktop\Новая папка (4)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\admin\Desktop\Новая папка (4)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\admin\Desktop\Новая папка (4)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\admin\Desktop\Новая папка (4)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\admin\Desktop\Новая папка (4)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\admin\Desktop\Новая папка (4)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\admin\Desktop\Новая папка (4)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\admin\Desktop\Новая папка (4)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\admin\Desktop\Новая папка (4)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\admin\Desktop\Новая папка (4)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\admin\Desktop\Новая папка (4)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\admin\Desktop\Новая папка (4)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\admin\Desktop\Новая папка (4)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\admin\Desktop\Новая папка (4)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\admin\Desktop\Новая папка (4)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\admin\Desktop\Новая папка (4)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\admin\Desktop\Новая папка (4)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\admin\Desktop\Новая папка (4)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\admin\Desktop\Новая папка (4)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\admin\Desktop\Новая папка (4)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+C:\Users\admin\Desktop\Новая папка (4)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\admin\Desktop\Новая папка (4)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+C:\Users\admin\Desktop\Новая папка (4)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+C:\Users\admin\Desktop\Новая папка (4)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+C:\Users\admin\Desktop\Новая папка (4)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+C:\Users\admin\Desktop\Новая папка (4)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+C:\Users\admin\Desktop\Новая папка (4)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\admin\Desktop\Новая папка (4)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\System.Formats.Asn1.dll
+C:\Users\admin\Desktop\Новая папка (4)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\admin\Desktop\Новая папка (4)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\admin\Desktop\Новая папка (4)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\admin\Desktop\Новая папка (4)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\admin\Desktop\Новая папка (4)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\admin\Desktop\Новая папка (4)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\admin\Desktop\Новая папка (4)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\WpfAnimatedGif.dll
+C:\Users\admin\Desktop\Новая папка (4)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Desktop\Новая папка (4)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Desktop\Новая папка (4)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Desktop\Новая папка (4)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Desktop\Новая папка (4)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Desktop\Новая папка (4)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Desktop\Новая папка (4)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Desktop\Новая папка (4)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Desktop\Новая папка (4)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Desktop\Новая папка (4)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Desktop\Новая папка (4)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Desktop\Новая папка (4)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Desktop\Новая папка (4)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Desktop\Новая папка (4)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Desktop\Новая папка (4)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Desktop\Новая папка (4)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Desktop\Новая папка (4)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Desktop\Новая папка (4)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Desktop\Новая папка (4)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Desktop\Новая папка (4)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Desktop\Новая папка (4)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Desktop\Новая папка (4)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Desktop\Новая папка (4)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Desktop\Новая папка (4)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Desktop\Новая папка (4)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Desktop\Новая папка (4)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Desktop\Новая папка (4)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Desktop\Новая папка (4)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Desktop\Новая папка (4)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Desktop\Новая папка (4)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Desktop\Новая папка (4)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Desktop\Новая папка (4)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Desktop\Новая папка (4)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Desktop\Новая папка (4)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Desktop\Новая папка (4)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Desktop\Новая папка (4)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Desktop\Новая папка (4)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Desktop\Новая папка (4)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Desktop\Новая папка (4)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Desktop\Новая папка (4)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Desktop\Новая папка (4)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Desktop\Новая папка (4)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Desktop\Новая папка (4)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Desktop\Новая папка (4)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Desktop\Новая папка (4)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Desktop\Новая папка (4)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Desktop\Новая папка (4)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Desktop\Новая папка (4)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Desktop\Новая папка (4)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Desktop\Новая папка (4)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Desktop\Новая папка (4)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Desktop\Новая папка (4)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Desktop\Новая папка (4)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\admin\Desktop\Новая папка (4)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\admin\Desktop\Новая папка (4)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\admin\Desktop\Новая папка (4)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\admin\Desktop\Новая папка (4)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\admin\Desktop\Новая папка (4)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\admin\Desktop\Новая папка (4)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\admin\Desktop\Новая папка (4)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\admin\Desktop\Новая папка (4)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\admin\Desktop\Новая папка (4)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\admin\Desktop\Новая папка (4)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\admin\Desktop\Новая папка (4)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\admin\Desktop\Новая папка (4)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\admin\Desktop\Новая папка (4)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\admin\Desktop\Новая папка (4)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\admin\Desktop\Новая папка (4)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\admin\Desktop\Новая папка (4)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\admin\Desktop\Новая папка (4)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\admin\Desktop\Новая папка (4)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\admin\Desktop\Новая папка (4)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\admin\Desktop\Новая папка (4)обнова\CommunityBookLovers\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\admin\Desktop\Новая папка (4)обнова\CommunityBookLovers\obj\Debug\net8.0-windows\CommunityBookLovers.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Новая папка (4)обнова\CommunityBookLovers\obj\Debug\net8.0-windows\LWindow\AboutMeWindow.g.cs
+C:\Users\admin\Desktop\Новая папка (4)обнова\CommunityBookLovers\obj\Debug\net8.0-windows\LWindow\AddBookWindow.g.cs
+C:\Users\admin\Desktop\Новая папка (4)обнова\CommunityBookLovers\obj\Debug\net8.0-windows\LWindow\BookshelfMessageBox.g.cs
+C:\Users\admin\Desktop\Новая папка (4)обнова\CommunityBookLovers\obj\Debug\net8.0-windows\LWindow\BookshelfWindow.g.cs
+C:\Users\admin\Desktop\Новая папка (4)обнова\CommunityBookLovers\obj\Debug\net8.0-windows\LWindow\BookWindow.g.cs
+C:\Users\admin\Desktop\Новая папка (4)обнова\CommunityBookLovers\obj\Debug\net8.0-windows\LWindow\CommunityBook.g.cs
+C:\Users\admin\Desktop\Новая папка (4)обнова\CommunityBookLovers\obj\Debug\net8.0-windows\LWindow\CustomWin.g.cs
+C:\Users\admin\Desktop\Новая папка (4)обнова\CommunityBookLovers\obj\Debug\net8.0-windows\LWindow\MainCommunityBook.g.cs
+C:\Users\admin\Desktop\Новая папка (4)обнова\CommunityBookLovers\obj\Debug\net8.0-windows\LWindow\RegistrationWindow.g.cs
+C:\Users\admin\Desktop\Новая папка (4)обнова\CommunityBookLovers\obj\Debug\net8.0-windows\LWindow\ReviewWindow.g.cs
+C:\Users\admin\Desktop\Новая папка (4)обнова\CommunityBookLovers\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\admin\Desktop\Новая папка (4)обнова\CommunityBookLovers\obj\Debug\net8.0-windows\MessegeBoxes\MessegeAboutme.g.cs
+C:\Users\admin\Desktop\Новая папка (4)обнова\CommunityBookLovers\obj\Debug\net8.0-windows\MessegeBoxes\MessegeAvtoriz.g.cs
+C:\Users\admin\Desktop\Новая папка (4)обнова\CommunityBookLovers\obj\Debug\net8.0-windows\MessegeBoxes\MessegeBook.g.cs
+C:\Users\admin\Desktop\Новая папка (4)обнова\CommunityBookLovers\obj\Debug\net8.0-windows\MessegeBoxes\MessegeBoxFriend.g.cs
+C:\Users\admin\Desktop\Новая папка (4)обнова\CommunityBookLovers\obj\Debug\net8.0-windows\MessegeBoxes\MessegeReview.g.cs
+C:\Users\admin\Desktop\Новая папка (4)обнова\CommunityBookLovers\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\admin\Desktop\Новая папка (4)обнова\CommunityBookLovers\obj\Debug\net8.0-windows\CommunityBookLovers_MarkupCompile.cache
+C:\Users\admin\Desktop\Новая папка (4)обнова\CommunityBookLovers\obj\Debug\net8.0-windows\CommunityBookLovers_MarkupCompile.lref
+C:\Users\admin\Desktop\Новая папка (4)обнова\CommunityBookLovers\obj\Debug\net8.0-windows\LWindow\AboutMeWindow.baml
+C:\Users\admin\Desktop\Новая папка (4)обнова\CommunityBookLovers\obj\Debug\net8.0-windows\LWindow\AddBookWindow.baml
+C:\Users\admin\Desktop\Новая папка (4)обнова\CommunityBookLovers\obj\Debug\net8.0-windows\LWindow\BookshelfMessageBox.baml
+C:\Users\admin\Desktop\Новая папка (4)обнова\CommunityBookLovers\obj\Debug\net8.0-windows\LWindow\BookshelfWindow.baml
+C:\Users\admin\Desktop\Новая папка (4)обнова\CommunityBookLovers\obj\Debug\net8.0-windows\LWindow\BookWindow.baml
+C:\Users\admin\Desktop\Новая папка (4)обнова\CommunityBookLovers\obj\Debug\net8.0-windows\LWindow\CommunityBook.baml
+C:\Users\admin\Desktop\Новая папка (4)обнова\CommunityBookLovers\obj\Debug\net8.0-windows\LWindow\CustomWin.baml
+C:\Users\admin\Desktop\Новая папка (4)обнова\CommunityBookLovers\obj\Debug\net8.0-windows\LWindow\MainCommunityBook.baml
+C:\Users\admin\Desktop\Новая папка (4)обнова\CommunityBookLovers\obj\Debug\net8.0-windows\LWindow\RegistrationWindow.baml
+C:\Users\admin\Desktop\Новая папка (4)обнова\CommunityBookLovers\obj\Debug\net8.0-windows\LWindow\ReviewWindow.baml
+C:\Users\admin\Desktop\Новая папка (4)обнова\CommunityBookLovers\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\admin\Desktop\Новая папка (4)обнова\CommunityBookLovers\obj\Debug\net8.0-windows\MessegeBoxes\MessegeAboutme.baml
+C:\Users\admin\Desktop\Новая папка (4)обнова\CommunityBookLovers\obj\Debug\net8.0-windows\MessegeBoxes\MessegeAvtoriz.baml
+C:\Users\admin\Desktop\Новая папка (4)обнова\CommunityBookLovers\obj\Debug\net8.0-windows\MessegeBoxes\MessegeBook.baml
+C:\Users\admin\Desktop\Новая папка (4)обнова\CommunityBookLovers\obj\Debug\net8.0-windows\MessegeBoxes\MessegeBoxFriend.baml
+C:\Users\admin\Desktop\Новая папка (4)обнова\CommunityBookLovers\obj\Debug\net8.0-windows\MessegeBoxes\MessegeReview.baml
+C:\Users\admin\Desktop\Новая папка (4)обнова\CommunityBookLovers\obj\Debug\net8.0-windows\CommunityBookLovers.g.resources
+C:\Users\admin\Desktop\Новая папка (4)обнова\CommunityBookLovers\obj\Debug\net8.0-windows\CommunityBookLovers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\Новая папка (4)обнова\CommunityBookLovers\obj\Debug\net8.0-windows\CommunityBookLovers.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Новая папка (4)обнова\CommunityBookLovers\obj\Debug\net8.0-windows\CommunityBookLovers.AssemblyInfo.cs
+C:\Users\admin\Desktop\Новая папка (4)обнова\CommunityBookLovers\obj\Debug\net8.0-windows\CommunityBookLovers.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Новая папка (4)обнова\CommunityBookLovers\obj\Debug\net8.0-windows\Communit.F76E9131.Up2Date
+C:\Users\admin\Desktop\Новая папка (4)обнова\CommunityBookLovers\obj\Debug\net8.0-windows\CommunityBookLovers.dll
+C:\Users\admin\Desktop\Новая папка (4)обнова\CommunityBookLovers\obj\Debug\net8.0-windows\refint\CommunityBookLovers.dll
+C:\Users\admin\Desktop\Новая папка (4)обнова\CommunityBookLovers\obj\Debug\net8.0-windows\CommunityBookLovers.pdb
+C:\Users\admin\Desktop\Новая папка (4)обнова\CommunityBookLovers\obj\Debug\net8.0-windows\CommunityBookLovers.genruntimeconfig.cache
+C:\Users\admin\Desktop\Новая папка (4)обнова\CommunityBookLovers\obj\Debug\net8.0-windows\ref\CommunityBookLovers.dll

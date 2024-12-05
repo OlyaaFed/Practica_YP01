@@ -1,0 +1,468 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "WebApplication1",
+    "version": "1.0"
+  },
+  "paths": {
+    "/api/Library": {
+      "get": {
+        "tags": [
+          "Library"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/User"
+                  }
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/User"
+                  }
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/User"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/Library/{id}": {
+      "get": {
+        "tags": [
+          "Library"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/Genre"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Genre"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Genre"
+                }
+              }
+            }
+          }
+        }
+      },
+      "delete": {
+        "tags": [
+          "Library"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Library/{GenreId}": {
+      "post": {
+        "tags": [
+          "Library"
+        ],
+        "parameters": [
+          {
+            "name": "GenreId",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Genre"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Genre"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/Genre"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Library/{Id}": {
+      "put": {
+        "tags": [
+          "Library"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/User"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/User"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/User"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "Author": {
+        "type": "object",
+        "properties": {
+          "authorId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "name": {
+            "type": "string",
+            "nullable": true
+          },
+          "birth": {
+            "type": "string",
+            "format": "date",
+            "nullable": true
+          },
+          "books": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/Book"
+            },
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "Book": {
+        "type": "object",
+        "properties": {
+          "bookId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "title": {
+            "type": "string",
+            "nullable": true
+          },
+          "authorId": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          },
+          "genreId": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          },
+          "publicationYear": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          },
+          "pages": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          },
+          "imagepath": {
+            "type": "string",
+            "nullable": true
+          },
+          "description": {
+            "type": "string",
+            "nullable": true
+          },
+          "author": {
+            "$ref": "#/components/schemas/Author"
+          },
+          "bookshelves": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/Bookshelf"
+            },
+            "nullable": true
+          },
+          "genre": {
+            "$ref": "#/components/schemas/Genre"
+          },
+          "reviews": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/Review"
+            },
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "Bookshelf": {
+        "type": "object",
+        "properties": {
+          "bookshelf1": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "bookId": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          },
+          "dataAdded": {
+            "type": "string",
+            "format": "date",
+            "nullable": true
+          },
+          "userId": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          },
+          "state": {
+            "type": "string",
+            "nullable": true
+          },
+          "book": {
+            "$ref": "#/components/schemas/Book"
+          },
+          "user": {
+            "$ref": "#/components/schemas/User"
+          }
+        },
+        "additionalProperties": false
+      },
+      "Friendship": {
+        "type": "object",
+        "properties": {
+          "friendshipId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "userId": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          },
+          "friendId": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          },
+          "isAccepted": {
+            "type": "boolean",
+            "nullable": true
+          },
+          "friend": {
+            "$ref": "#/components/schemas/User"
+          },
+          "user": {
+            "$ref": "#/components/schemas/User"
+          }
+        },
+        "additionalProperties": false
+      },
+      "Genre": {
+        "type": "object",
+        "properties": {
+          "genreId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "name": {
+            "type": "string",
+            "nullable": true
+          },
+          "books": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/Book"
+            },
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "Review": {
+        "type": "object",
+        "properties": {
+          "reviewId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "userId": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          },
+          "bookId": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          },
+          "rating": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          },
+          "text": {
+            "type": "string",
+            "nullable": true
+          },
+          "date": {
+            "type": "string",
+            "format": "date",
+            "nullable": true
+          },
+          "book": {
+            "$ref": "#/components/schemas/Book"
+          },
+          "user": {
+            "$ref": "#/components/schemas/User"
+          }
+        },
+        "additionalProperties": false
+      },
+      "User": {
+        "type": "object",
+        "properties": {
+          "userId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "name": {
+            "type": "string",
+            "nullable": true
+          },
+          "email": {
+            "type": "string",
+            "nullable": true
+          },
+          "password": {
+            "type": "string",
+            "nullable": true
+          },
+          "date": {
+            "type": "string",
+            "format": "date",
+            "nullable": true
+          },
+          "profileimagePath": {
+            "type": "string",
+            "nullable": true
+          },
+          "bookshelves": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/Bookshelf"
+            },
+            "nullable": true
+          },
+          "friendshipFriends": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/Friendship"
+            },
+            "nullable": true
+          },
+          "friendshipUsers": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/Friendship"
+            },
+            "nullable": true
+          },
+          "reviews": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/Review"
+            },
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  }
+}

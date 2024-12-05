@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="LWindow\BookshelfMessageBox.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="LWindow\CommunityBook.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="LWindow\CustomWin.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="MessegeBoxes\MessegeAboutme.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="MessegeBoxes\MessegeAvtoriz.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="MessegeBoxes\MessegeBook.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="MessegeBoxes\MessegeBoxFriend.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="MessegeBoxes\MessegeReview.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="LWindow\BookshelfMessageBox.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="LWindow\CommunityBook.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="LWindow\CustomWin.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="MessegeBoxes\MessegeAboutme.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="MessegeBoxes\MessegeAvtoriz.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="MessegeBoxes\MessegeBook.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="MessegeBoxes\MessegeBoxFriend.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="MessegeBoxes\MessegeReview.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>

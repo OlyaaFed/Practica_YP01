@@ -1,0 +1,640 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\u043E\u0431\u043D\u043E\u0432\u0430\\CommunityBookLovers\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E404AB05-5C68-421F-8D6B-52D8FC3B5F31}|CommunityBookLovers.csproj|c:\\users\\admin\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\u043E\u0431\u043D\u043E\u0432\u0430\\communitybooklovers\\lwindow\\reviewwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E404AB05-5C68-421F-8D6B-52D8FC3B5F31}|CommunityBookLovers.csproj|solutionrelative:lwindow\\reviewwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E404AB05-5C68-421F-8D6B-52D8FC3B5F31}|CommunityBookLovers.csproj|c:\\users\\admin\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\u043E\u0431\u043D\u043E\u0432\u0430\\communitybooklovers\\lwindow\\reviewwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E404AB05-5C68-421F-8D6B-52D8FC3B5F31}|CommunityBookLovers.csproj|solutionrelative:lwindow\\reviewwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E404AB05-5C68-421F-8D6B-52D8FC3B5F31}|CommunityBookLovers.csproj|c:\\users\\admin\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\u043E\u0431\u043D\u043E\u0432\u0430\\communitybooklovers\\lwindow\\registrationwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E404AB05-5C68-421F-8D6B-52D8FC3B5F31}|CommunityBookLovers.csproj|solutionrelative:lwindow\\registrationwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E404AB05-5C68-421F-8D6B-52D8FC3B5F31}|CommunityBookLovers.csproj|c:\\users\\admin\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\u043E\u0431\u043D\u043E\u0432\u0430\\communitybooklovers\\lwindow\\registrationwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E404AB05-5C68-421F-8D6B-52D8FC3B5F31}|CommunityBookLovers.csproj|solutionrelative:lwindow\\registrationwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E404AB05-5C68-421F-8D6B-52D8FC3B5F31}|CommunityBookLovers.csproj|c:\\users\\admin\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\u043E\u0431\u043D\u043E\u0432\u0430\\communitybooklovers\\lwindow\\maincommunitybook.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E404AB05-5C68-421F-8D6B-52D8FC3B5F31}|CommunityBookLovers.csproj|solutionrelative:lwindow\\maincommunitybook.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E404AB05-5C68-421F-8D6B-52D8FC3B5F31}|CommunityBookLovers.csproj|c:\\users\\admin\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\u043E\u0431\u043D\u043E\u0432\u0430\\communitybooklovers\\lwindow\\maincommunitybook.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E404AB05-5C68-421F-8D6B-52D8FC3B5F31}|CommunityBookLovers.csproj|solutionrelative:lwindow\\maincommunitybook.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E404AB05-5C68-421F-8D6B-52D8FC3B5F31}|CommunityBookLovers.csproj|c:\\users\\admin\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\u043E\u0431\u043D\u043E\u0432\u0430\\communitybooklovers\\lwindow\\customwin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E404AB05-5C68-421F-8D6B-52D8FC3B5F31}|CommunityBookLovers.csproj|solutionrelative:lwindow\\customwin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E404AB05-5C68-421F-8D6B-52D8FC3B5F31}|CommunityBookLovers.csproj|c:\\users\\admin\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\u043E\u0431\u043D\u043E\u0432\u0430\\communitybooklovers\\lwindow\\communitybook.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E404AB05-5C68-421F-8D6B-52D8FC3B5F31}|CommunityBookLovers.csproj|solutionrelative:lwindow\\communitybook.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E404AB05-5C68-421F-8D6B-52D8FC3B5F31}|CommunityBookLovers.csproj|c:\\users\\admin\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\u043E\u0431\u043D\u043E\u0432\u0430\\communitybooklovers\\lwindow\\communitybook.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E404AB05-5C68-421F-8D6B-52D8FC3B5F31}|CommunityBookLovers.csproj|solutionrelative:lwindow\\communitybook.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E404AB05-5C68-421F-8D6B-52D8FC3B5F31}|CommunityBookLovers.csproj|c:\\users\\admin\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\u043E\u0431\u043D\u043E\u0432\u0430\\communitybooklovers\\lwindow\\bookwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E404AB05-5C68-421F-8D6B-52D8FC3B5F31}|CommunityBookLovers.csproj|solutionrelative:lwindow\\bookwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E404AB05-5C68-421F-8D6B-52D8FC3B5F31}|CommunityBookLovers.csproj|c:\\users\\admin\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\u043E\u0431\u043D\u043E\u0432\u0430\\communitybooklovers\\lwindow\\bookwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E404AB05-5C68-421F-8D6B-52D8FC3B5F31}|CommunityBookLovers.csproj|solutionrelative:lwindow\\bookwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E404AB05-5C68-421F-8D6B-52D8FC3B5F31}|CommunityBookLovers.csproj|c:\\users\\admin\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\u043E\u0431\u043D\u043E\u0432\u0430\\communitybooklovers\\lwindow\\bookshelfwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E404AB05-5C68-421F-8D6B-52D8FC3B5F31}|CommunityBookLovers.csproj|solutionrelative:lwindow\\bookshelfwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E404AB05-5C68-421F-8D6B-52D8FC3B5F31}|CommunityBookLovers.csproj|c:\\users\\admin\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\u043E\u0431\u043D\u043E\u0432\u0430\\communitybooklovers\\lwindow\\bookshelfwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E404AB05-5C68-421F-8D6B-52D8FC3B5F31}|CommunityBookLovers.csproj|solutionrelative:lwindow\\bookshelfwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E404AB05-5C68-421F-8D6B-52D8FC3B5F31}|CommunityBookLovers.csproj|c:\\users\\admin\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\u043E\u0431\u043D\u043E\u0432\u0430\\communitybooklovers\\lwindow\\aboutmewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E404AB05-5C68-421F-8D6B-52D8FC3B5F31}|CommunityBookLovers.csproj|solutionrelative:lwindow\\aboutmewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E404AB05-5C68-421F-8D6B-52D8FC3B5F31}|CommunityBookLovers.csproj|c:\\users\\admin\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\u043E\u0431\u043D\u043E\u0432\u0430\\communitybooklovers\\lwindow\\bookshelfmessagebox.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E404AB05-5C68-421F-8D6B-52D8FC3B5F31}|CommunityBookLovers.csproj|solutionrelative:lwindow\\bookshelfmessagebox.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E404AB05-5C68-421F-8D6B-52D8FC3B5F31}|CommunityBookLovers.csproj|c:\\users\\admin\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\u043E\u0431\u043D\u043E\u0432\u0430\\communitybooklovers\\lwindow\\addbookwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E404AB05-5C68-421F-8D6B-52D8FC3B5F31}|CommunityBookLovers.csproj|solutionrelative:lwindow\\addbookwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E404AB05-5C68-421F-8D6B-52D8FC3B5F31}|CommunityBookLovers.csproj|c:\\users\\admin\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\u043E\u0431\u043D\u043E\u0432\u0430\\communitybooklovers\\lwindow\\addbookwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E404AB05-5C68-421F-8D6B-52D8FC3B5F31}|CommunityBookLovers.csproj|solutionrelative:lwindow\\addbookwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E404AB05-5C68-421F-8D6B-52D8FC3B5F31}|CommunityBookLovers.csproj|c:\\users\\admin\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\u043E\u0431\u043D\u043E\u0432\u0430\\communitybooklovers\\lwindow\\aboutmewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E404AB05-5C68-421F-8D6B-52D8FC3B5F31}|CommunityBookLovers.csproj|solutionrelative:lwindow\\aboutmewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E404AB05-5C68-421F-8D6B-52D8FC3B5F31}|CommunityBookLovers.csproj|c:\\users\\admin\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\u043E\u0431\u043D\u043E\u0432\u0430\\communitybooklovers\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E404AB05-5C68-421F-8D6B-52D8FC3B5F31}|CommunityBookLovers.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E404AB05-5C68-421F-8D6B-52D8FC3B5F31}|CommunityBookLovers.csproj|c:\\users\\admin\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\u043E\u0431\u043D\u043E\u0432\u0430\\communitybooklovers\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E404AB05-5C68-421F-8D6B-52D8FC3B5F31}|CommunityBookLovers.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E404AB05-5C68-421F-8D6B-52D8FC3B5F31}|CommunityBookLovers.csproj|c:\\users\\admin\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\u043E\u0431\u043D\u043E\u0432\u0430\\communitybooklovers\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E404AB05-5C68-421F-8D6B-52D8FC3B5F31}|CommunityBookLovers.csproj|solutionrelative:models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E404AB05-5C68-421F-8D6B-52D8FC3B5F31}|CommunityBookLovers.csproj|c:\\users\\admin\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\u043E\u0431\u043D\u043E\u0432\u0430\\communitybooklovers\\models\\librarycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E404AB05-5C68-421F-8D6B-52D8FC3B5F31}|CommunityBookLovers.csproj|solutionrelative:models\\librarycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\admin\\AppData\\Local\\Temp\\.vsdbgsrc\\4dcf567db33b8407e8e7e85491df71d46c06985d33f5ad8d904e52c3b325c6c5\\ExecutionContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E404AB05-5C68-421F-8D6B-52D8FC3B5F31}|CommunityBookLovers.csproj|c:\\users\\admin\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\u043E\u0431\u043D\u043E\u0432\u0430\\communitybooklovers\\messegeboxes\\messegeavtoriz.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E404AB05-5C68-421F-8D6B-52D8FC3B5F31}|CommunityBookLovers.csproj|solutionrelative:messegeboxes\\messegeavtoriz.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E404AB05-5C68-421F-8D6B-52D8FC3B5F31}|CommunityBookLovers.csproj|c:\\users\\admin\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\u043E\u0431\u043D\u043E\u0432\u0430\\communitybooklovers\\messegeboxes\\messegeavtoriz.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E404AB05-5C68-421F-8D6B-52D8FC3B5F31}|CommunityBookLovers.csproj|solutionrelative:messegeboxes\\messegeavtoriz.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E404AB05-5C68-421F-8D6B-52D8FC3B5F31}|CommunityBookLovers.csproj|c:\\users\\admin\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\u043E\u0431\u043D\u043E\u0432\u0430\\communitybooklovers\\lwindow\\bookshelfmessagebox.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E404AB05-5C68-421F-8D6B-52D8FC3B5F31}|CommunityBookLovers.csproj|solutionrelative:lwindow\\bookshelfmessagebox.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E404AB05-5C68-421F-8D6B-52D8FC3B5F31}|CommunityBookLovers.csproj|c:\\users\\admin\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\u043E\u0431\u043D\u043E\u0432\u0430\\communitybooklovers\\messegeboxes\\messegereview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E404AB05-5C68-421F-8D6B-52D8FC3B5F31}|CommunityBookLovers.csproj|solutionrelative:messegeboxes\\messegereview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E404AB05-5C68-421F-8D6B-52D8FC3B5F31}|CommunityBookLovers.csproj|c:\\users\\admin\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\u043E\u0431\u043D\u043E\u0432\u0430\\communitybooklovers\\messegeboxes\\messegereview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E404AB05-5C68-421F-8D6B-52D8FC3B5F31}|CommunityBookLovers.csproj|solutionrelative:messegeboxes\\messegereview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E404AB05-5C68-421F-8D6B-52D8FC3B5F31}|CommunityBookLovers.csproj|c:\\users\\admin\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\u043E\u0431\u043D\u043E\u0432\u0430\\communitybooklovers\\messegeboxes\\messegebook.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E404AB05-5C68-421F-8D6B-52D8FC3B5F31}|CommunityBookLovers.csproj|solutionrelative:messegeboxes\\messegebook.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E404AB05-5C68-421F-8D6B-52D8FC3B5F31}|CommunityBookLovers.csproj|c:\\users\\admin\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\u043E\u0431\u043D\u043E\u0432\u0430\\communitybooklovers\\messegeboxes\\messegebook.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E404AB05-5C68-421F-8D6B-52D8FC3B5F31}|CommunityBookLovers.csproj|solutionrelative:messegeboxes\\messegebook.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E404AB05-5C68-421F-8D6B-52D8FC3B5F31}|CommunityBookLovers.csproj|c:\\users\\admin\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\u043E\u0431\u043D\u043E\u0432\u0430\\communitybooklovers\\messegeboxes\\messegeaboutme.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E404AB05-5C68-421F-8D6B-52D8FC3B5F31}|CommunityBookLovers.csproj|solutionrelative:messegeboxes\\messegeaboutme.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E404AB05-5C68-421F-8D6B-52D8FC3B5F31}|CommunityBookLovers.csproj|c:\\users\\admin\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\u043E\u0431\u043D\u043E\u0432\u0430\\communitybooklovers\\messegeboxes\\messegeaboutme.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E404AB05-5C68-421F-8D6B-52D8FC3B5F31}|CommunityBookLovers.csproj|solutionrelative:messegeboxes\\messegeaboutme.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E404AB05-5C68-421F-8D6B-52D8FC3B5F31}|CommunityBookLovers.csproj|c:\\users\\admin\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\u043E\u0431\u043D\u043E\u0432\u0430\\communitybooklovers\\messegeboxes\\messegeboxfriend.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E404AB05-5C68-421F-8D6B-52D8FC3B5F31}|CommunityBookLovers.csproj|solutionrelative:messegeboxes\\messegeboxfriend.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E404AB05-5C68-421F-8D6B-52D8FC3B5F31}|CommunityBookLovers.csproj|c:\\users\\admin\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\u043E\u0431\u043D\u043E\u0432\u0430\\communitybooklovers\\messegeboxes\\messegeboxfriend.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E404AB05-5C68-421F-8D6B-52D8FC3B5F31}|CommunityBookLovers.csproj|solutionrelative:messegeboxes\\messegeboxfriend.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E404AB05-5C68-421F-8D6B-52D8FC3B5F31}|CommunityBookLovers.csproj|c:\\users\\admin\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\u043E\u0431\u043D\u043E\u0432\u0430\\communitybooklovers\\models\\friendship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E404AB05-5C68-421F-8D6B-52D8FC3B5F31}|CommunityBookLovers.csproj|solutionrelative:models\\friendship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E404AB05-5C68-421F-8D6B-52D8FC3B5F31}|CommunityBookLovers.csproj|c:\\users\\admin\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\u043E\u0431\u043D\u043E\u0432\u0430\\communitybooklovers\\lwindow\\customwin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E404AB05-5C68-421F-8D6B-52D8FC3B5F31}|CommunityBookLovers.csproj|solutionrelative:lwindow\\customwin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E404AB05-5C68-421F-8D6B-52D8FC3B5F31}|CommunityBookLovers.csproj|c:\\users\\admin\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\u043E\u0431\u043D\u043E\u0432\u0430\\communitybooklovers\\models\\bookshelf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E404AB05-5C68-421F-8D6B-52D8FC3B5F31}|CommunityBookLovers.csproj|solutionrelative:models\\bookshelf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E404AB05-5C68-421F-8D6B-52D8FC3B5F31}|CommunityBookLovers.csproj|c:\\users\\admin\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\u043E\u0431\u043D\u043E\u0432\u0430\\communitybooklovers\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E404AB05-5C68-421F-8D6B-52D8FC3B5F31}|CommunityBookLovers.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CommunityBook.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\u043E\u0431\u043D\u043E\u0432\u0430\\CommunityBookLovers\\LWindow\\CommunityBook.xaml.cs",
+              "RelativeDocumentMoniker": "LWindow\\CommunityBook.xaml.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\u043E\u0431\u043D\u043E\u0432\u0430\\CommunityBookLovers\\LWindow\\CommunityBook.xaml.cs",
+              "RelativeToolTip": "LWindow\\CommunityBook.xaml.cs",
+              "ViewState": "AgIAALYAAAAAAAAAAAAuwPEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T00:24:49.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CustomWin.xaml",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\u043E\u0431\u043D\u043E\u0432\u0430\\CommunityBookLovers\\LWindow\\CustomWin.xaml",
+              "RelativeDocumentMoniker": "LWindow\\CustomWin.xaml",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\u043E\u0431\u043D\u043E\u0432\u0430\\CommunityBookLovers\\LWindow\\CustomWin.xaml",
+              "RelativeToolTip": "LWindow\\CustomWin.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-01T22:27:38.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainCommunityBook.xaml",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\u043E\u0431\u043D\u043E\u0432\u0430\\CommunityBookLovers\\LWindow\\MainCommunityBook.xaml",
+              "RelativeDocumentMoniker": "LWindow\\MainCommunityBook.xaml",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\u043E\u0431\u043D\u043E\u0432\u0430\\CommunityBookLovers\\LWindow\\MainCommunityBook.xaml",
+              "RelativeToolTip": "LWindow\\MainCommunityBook.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-01T21:43:51.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainCommunityBook.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\u043E\u0431\u043D\u043E\u0432\u0430\\CommunityBookLovers\\LWindow\\MainCommunityBook.xaml.cs",
+              "RelativeDocumentMoniker": "LWindow\\MainCommunityBook.xaml.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\u043E\u0431\u043D\u043E\u0432\u0430\\CommunityBookLovers\\LWindow\\MainCommunityBook.xaml.cs",
+              "RelativeToolTip": "LWindow\\MainCommunityBook.xaml.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAIwF0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T19:49:22.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RegistrationWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\u043E\u0431\u043D\u043E\u0432\u0430\\CommunityBookLovers\\LWindow\\RegistrationWindow.xaml",
+              "RelativeDocumentMoniker": "LWindow\\RegistrationWindow.xaml",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\u043E\u0431\u043D\u043E\u0432\u0430\\CommunityBookLovers\\LWindow\\RegistrationWindow.xaml",
+              "RelativeToolTip": "LWindow\\RegistrationWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-02T05:35:07.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RegistrationWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\u043E\u0431\u043D\u043E\u0432\u0430\\CommunityBookLovers\\LWindow\\RegistrationWindow.xaml.cs",
+              "RelativeDocumentMoniker": "LWindow\\RegistrationWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\u043E\u0431\u043D\u043E\u0432\u0430\\CommunityBookLovers\\LWindow\\RegistrationWindow.xaml.cs",
+              "RelativeToolTip": "LWindow\\RegistrationWindow.xaml.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAmwDEAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T05:18:47.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReviewWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\u043E\u0431\u043D\u043E\u0432\u0430\\CommunityBookLovers\\LWindow\\ReviewWindow.xaml",
+              "RelativeDocumentMoniker": "LWindow\\ReviewWindow.xaml",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\u043E\u0431\u043D\u043E\u0432\u0430\\CommunityBookLovers\\LWindow\\ReviewWindow.xaml",
+              "RelativeToolTip": "LWindow\\ReviewWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-01T13:04:51.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReviewWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\u043E\u0431\u043D\u043E\u0432\u0430\\CommunityBookLovers\\LWindow\\ReviewWindow.xaml.cs",
+              "RelativeDocumentMoniker": "LWindow\\ReviewWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\u043E\u0431\u043D\u043E\u0432\u0430\\CommunityBookLovers\\LWindow\\ReviewWindow.xaml.cs",
+              "RelativeToolTip": "LWindow\\ReviewWindow.xaml.cs",
+              "ViewState": "AgIAAIkAAAAAAAAAAAAmwLcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T13:07:02.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CommunityBook.xaml",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\u043E\u0431\u043D\u043E\u0432\u0430\\CommunityBookLovers\\LWindow\\CommunityBook.xaml",
+              "RelativeDocumentMoniker": "LWindow\\CommunityBook.xaml",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\u043E\u0431\u043D\u043E\u0432\u0430\\CommunityBookLovers\\LWindow\\CommunityBook.xaml",
+              "RelativeToolTip": "LWindow\\CommunityBook.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-02T00:24:15.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BookWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\u043E\u0431\u043D\u043E\u0432\u0430\\CommunityBookLovers\\LWindow\\BookWindow.xaml.cs",
+              "RelativeDocumentMoniker": "LWindow\\BookWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\u043E\u0431\u043D\u043E\u0432\u0430\\CommunityBookLovers\\LWindow\\BookWindow.xaml.cs",
+              "RelativeToolTip": "LWindow\\BookWindow.xaml.cs",
+              "ViewState": "AgIAAJkAAAAAAAAAAAA0wNIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T16:43:21.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BookWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\u043E\u0431\u043D\u043E\u0432\u0430\\CommunityBookLovers\\LWindow\\BookWindow.xaml",
+              "RelativeDocumentMoniker": "LWindow\\BookWindow.xaml",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\u043E\u0431\u043D\u043E\u0432\u0430\\CommunityBookLovers\\LWindow\\BookWindow.xaml",
+              "RelativeToolTip": "LWindow\\BookWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-01T16:48:38.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BookshelfWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\u043E\u0431\u043D\u043E\u0432\u0430\\CommunityBookLovers\\LWindow\\BookshelfWindow.xaml.cs",
+              "RelativeDocumentMoniker": "LWindow\\BookshelfWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\u043E\u0431\u043D\u043E\u0432\u0430\\CommunityBookLovers\\LWindow\\BookshelfWindow.xaml.cs",
+              "RelativeToolTip": "LWindow\\BookshelfWindow.xaml.cs",
+              "ViewState": "AgIAAJEAAAAAAAAAAAA8wK0AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T19:40:10.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BookshelfWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\u043E\u0431\u043D\u043E\u0432\u0430\\CommunityBookLovers\\LWindow\\BookshelfWindow.xaml",
+              "RelativeDocumentMoniker": "LWindow\\BookshelfWindow.xaml",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\u043E\u0431\u043D\u043E\u0432\u0430\\CommunityBookLovers\\LWindow\\BookshelfWindow.xaml",
+              "RelativeToolTip": "LWindow\\BookshelfWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-01T19:34:36.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AboutMeWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\u043E\u0431\u043D\u043E\u0432\u0430\\CommunityBookLovers\\LWindow\\AboutMeWindow.xaml.cs",
+              "RelativeDocumentMoniker": "LWindow\\AboutMeWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\u043E\u0431\u043D\u043E\u0432\u0430\\CommunityBookLovers\\LWindow\\AboutMeWindow.xaml.cs",
+              "RelativeToolTip": "LWindow\\AboutMeWindow.xaml.cs",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAIwJ0AAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T16:42:50.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BookshelfMessageBox.xaml",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\u043E\u0431\u043D\u043E\u0432\u0430\\CommunityBookLovers\\LWindow\\BookshelfMessageBox.xaml",
+              "RelativeDocumentMoniker": "LWindow\\BookshelfMessageBox.xaml",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\u043E\u0431\u043D\u043E\u0432\u0430\\CommunityBookLovers\\LWindow\\BookshelfMessageBox.xaml",
+              "RelativeToolTip": "LWindow\\BookshelfMessageBox.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-01T23:13:39.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AddBookWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\u043E\u0431\u043D\u043E\u0432\u0430\\CommunityBookLovers\\LWindow\\AddBookWindow.xaml.cs",
+              "RelativeDocumentMoniker": "LWindow\\AddBookWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\u043E\u0431\u043D\u043E\u0432\u0430\\CommunityBookLovers\\LWindow\\AddBookWindow.xaml.cs",
+              "RelativeToolTip": "LWindow\\AddBookWindow.xaml.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAAwJIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T15:30:10.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AddBookWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\u043E\u0431\u043D\u043E\u0432\u0430\\CommunityBookLovers\\LWindow\\AddBookWindow.xaml",
+              "RelativeDocumentMoniker": "LWindow\\AddBookWindow.xaml",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\u043E\u0431\u043D\u043E\u0432\u0430\\CommunityBookLovers\\LWindow\\AddBookWindow.xaml",
+              "RelativeToolTip": "LWindow\\AddBookWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-01T15:30:05.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AboutMeWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\u043E\u0431\u043D\u043E\u0432\u0430\\CommunityBookLovers\\LWindow\\AboutMeWindow.xaml",
+              "RelativeDocumentMoniker": "LWindow\\AboutMeWindow.xaml",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\u043E\u0431\u043D\u043E\u0432\u0430\\CommunityBookLovers\\LWindow\\AboutMeWindow.xaml",
+              "RelativeToolTip": "LWindow\\AboutMeWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-01T16:43:52.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\u043E\u0431\u043D\u043E\u0432\u0430\\CommunityBookLovers\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\u043E\u0431\u043D\u043E\u0432\u0430\\CommunityBookLovers\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T05:36:08.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\u043E\u0431\u043D\u043E\u0432\u0430\\CommunityBookLovers\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\u043E\u0431\u043D\u043E\u0432\u0430\\CommunityBookLovers\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-28T07:47:59.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\u043E\u0431\u043D\u043E\u0432\u0430\\CommunityBookLovers\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "Models\\Book.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\u043E\u0431\u043D\u043E\u0432\u0430\\CommunityBookLovers\\Models\\Book.cs",
+              "RelativeToolTip": "Models\\Book.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T09:56:11.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "LibraryContext.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\u043E\u0431\u043D\u043E\u0432\u0430\\CommunityBookLovers\\Models\\LibraryContext.cs",
+              "RelativeDocumentMoniker": "Models\\LibraryContext.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\u043E\u0431\u043D\u043E\u0432\u0430\\CommunityBookLovers\\Models\\LibraryContext.cs",
+              "RelativeToolTip": "Models\\LibraryContext.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAA9wB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T00:04:35.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ExecutionContext.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\AppData\\Local\\Temp\\.vsdbgsrc\\4dcf567db33b8407e8e7e85491df71d46c06985d33f5ad8d904e52c3b325c6c5\\ExecutionContext.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\4dcf567db33b8407e8e7e85491df71d46c06985d33f5ad8d904e52c3b325c6c5\\ExecutionContext.cs",
+              "ToolTip": "C:\\Users\\admin\\AppData\\Local\\Temp\\.vsdbgsrc\\4dcf567db33b8407e8e7e85491df71d46c06985d33f5ad8d904e52c3b325c6c5\\ExecutionContext.cs [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\4dcf567db33b8407e8e7e85491df71d46c06985d33f5ad8d904e52c3b325c6c5\\ExecutionContext.cs [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "ViewState": "AgIAAIoAAAAAAAAAAAAEwI4AAAADAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T09:19:31.753Z",
+              "EditorCaption": " [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "BookshelfMessageBox.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\u043E\u0431\u043D\u043E\u0432\u0430\\CommunityBookLovers\\LWindow\\BookshelfMessageBox.xaml.cs",
+              "RelativeDocumentMoniker": "LWindow\\BookshelfMessageBox.xaml.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\u043E\u0431\u043D\u043E\u0432\u0430\\CommunityBookLovers\\LWindow\\BookshelfMessageBox.xaml.cs",
+              "RelativeToolTip": "LWindow\\BookshelfMessageBox.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T23:13:45.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "MessegeAvtoriz.xaml",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\u043E\u0431\u043D\u043E\u0432\u0430\\CommunityBookLovers\\MessegeBoxes\\MessegeAvtoriz.xaml",
+              "RelativeDocumentMoniker": "MessegeBoxes\\MessegeAvtoriz.xaml",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\u043E\u0431\u043D\u043E\u0432\u0430\\CommunityBookLovers\\MessegeBoxes\\MessegeAvtoriz.xaml",
+              "RelativeToolTip": "MessegeBoxes\\MessegeAvtoriz.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-02T05:55:10.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "MessegeAvtoriz.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\u043E\u0431\u043D\u043E\u0432\u0430\\CommunityBookLovers\\MessegeBoxes\\MessegeAvtoriz.xaml.cs",
+              "RelativeDocumentMoniker": "MessegeBoxes\\MessegeAvtoriz.xaml.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\u043E\u0431\u043D\u043E\u0432\u0430\\CommunityBookLovers\\MessegeBoxes\\MessegeAvtoriz.xaml.cs",
+              "RelativeToolTip": "MessegeBoxes\\MessegeAvtoriz.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T05:55:36.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "MessegeBook.xaml",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\u043E\u0431\u043D\u043E\u0432\u0430\\CommunityBookLovers\\MessegeBoxes\\MessegeBook.xaml",
+              "RelativeDocumentMoniker": "MessegeBoxes\\MessegeBook.xaml",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\u043E\u0431\u043D\u043E\u0432\u0430\\CommunityBookLovers\\MessegeBoxes\\MessegeBook.xaml",
+              "RelativeToolTip": "MessegeBoxes\\MessegeBook.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-02T02:36:31.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "MessegeAboutme.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\u043E\u0431\u043D\u043E\u0432\u0430\\CommunityBookLovers\\MessegeBoxes\\MessegeAboutme.xaml.cs",
+              "RelativeDocumentMoniker": "MessegeBoxes\\MessegeAboutme.xaml.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\u043E\u0431\u043D\u043E\u0432\u0430\\CommunityBookLovers\\MessegeBoxes\\MessegeAboutme.xaml.cs",
+              "RelativeToolTip": "MessegeBoxes\\MessegeAboutme.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T02:22:27.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "MessegeAboutme.xaml",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\u043E\u0431\u043D\u043E\u0432\u0430\\CommunityBookLovers\\MessegeBoxes\\MessegeAboutme.xaml",
+              "RelativeDocumentMoniker": "MessegeBoxes\\MessegeAboutme.xaml",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\u043E\u0431\u043D\u043E\u0432\u0430\\CommunityBookLovers\\MessegeBoxes\\MessegeAboutme.xaml",
+              "RelativeToolTip": "MessegeBoxes\\MessegeAboutme.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-02T02:22:11.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "MessegeBook.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\u043E\u0431\u043D\u043E\u0432\u0430\\CommunityBookLovers\\MessegeBoxes\\MessegeBook.xaml.cs",
+              "RelativeDocumentMoniker": "MessegeBoxes\\MessegeBook.xaml.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\u043E\u0431\u043D\u043E\u0432\u0430\\CommunityBookLovers\\MessegeBoxes\\MessegeBook.xaml.cs",
+              "RelativeToolTip": "MessegeBoxes\\MessegeBook.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T02:38:10.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "MessegeReview.xaml",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\u043E\u0431\u043D\u043E\u0432\u0430\\CommunityBookLovers\\MessegeBoxes\\MessegeReview.xaml",
+              "RelativeDocumentMoniker": "MessegeBoxes\\MessegeReview.xaml",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\u043E\u0431\u043D\u043E\u0432\u0430\\CommunityBookLovers\\MessegeBoxes\\MessegeReview.xaml",
+              "RelativeToolTip": "MessegeBoxes\\MessegeReview.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-02T02:40:27.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "MessegeReview.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\u043E\u0431\u043D\u043E\u0432\u0430\\CommunityBookLovers\\MessegeBoxes\\MessegeReview.xaml.cs",
+              "RelativeDocumentMoniker": "MessegeBoxes\\MessegeReview.xaml.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\u043E\u0431\u043D\u043E\u0432\u0430\\CommunityBookLovers\\MessegeBoxes\\MessegeReview.xaml.cs",
+              "RelativeToolTip": "MessegeBoxes\\MessegeReview.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T02:41:29.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "MessegeBoxFriend.xaml",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\u043E\u0431\u043D\u043E\u0432\u0430\\CommunityBookLovers\\MessegeBoxes\\MessegeBoxFriend.xaml",
+              "RelativeDocumentMoniker": "MessegeBoxes\\MessegeBoxFriend.xaml",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\u043E\u0431\u043D\u043E\u0432\u0430\\CommunityBookLovers\\MessegeBoxes\\MessegeBoxFriend.xaml",
+              "RelativeToolTip": "MessegeBoxes\\MessegeBoxFriend.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-02T02:04:22.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "MessegeBoxFriend.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\u043E\u0431\u043D\u043E\u0432\u0430\\CommunityBookLovers\\MessegeBoxes\\MessegeBoxFriend.xaml.cs",
+              "RelativeDocumentMoniker": "MessegeBoxes\\MessegeBoxFriend.xaml.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\u043E\u0431\u043D\u043E\u0432\u0430\\CommunityBookLovers\\MessegeBoxes\\MessegeBoxFriend.xaml.cs",
+              "RelativeToolTip": "MessegeBoxes\\MessegeBoxFriend.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T02:08:43.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Friendship.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\u043E\u0431\u043D\u043E\u0432\u0430\\CommunityBookLovers\\Models\\Friendship.cs",
+              "RelativeDocumentMoniker": "Models\\Friendship.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\u043E\u0431\u043D\u043E\u0432\u0430\\CommunityBookLovers\\Models\\Friendship.cs",
+              "RelativeToolTip": "Models\\Friendship.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T23:58:34.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "CustomWin.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\u043E\u0431\u043D\u043E\u0432\u0430\\CommunityBookLovers\\LWindow\\CustomWin.xaml.cs",
+              "RelativeDocumentMoniker": "LWindow\\CustomWin.xaml.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\u043E\u0431\u043D\u043E\u0432\u0430\\CommunityBookLovers\\LWindow\\CustomWin.xaml.cs",
+              "RelativeToolTip": "LWindow\\CustomWin.xaml.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAuwDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T22:28:34.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\u043E\u0431\u043D\u043E\u0432\u0430\\CommunityBookLovers\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\u043E\u0431\u043D\u043E\u0432\u0430\\CommunityBookLovers\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T17:04:10.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Bookshelf.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\u043E\u0431\u043D\u043E\u0432\u0430\\CommunityBookLovers\\Models\\Bookshelf.cs",
+              "RelativeDocumentMoniker": "Models\\Bookshelf.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\u043E\u0431\u043D\u043E\u0432\u0430\\CommunityBookLovers\\Models\\Bookshelf.cs",
+              "RelativeToolTip": "Models\\Bookshelf.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T18:25:21.046Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
